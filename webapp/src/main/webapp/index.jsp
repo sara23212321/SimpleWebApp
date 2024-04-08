@@ -99,7 +99,7 @@ h1{
             </ul>
 		
         </header>
-         <h1> Currently no offer until July... </h1>   
+         <h1> Currently no offer until July and September... </h1>   
 	 
 
     </section>    
